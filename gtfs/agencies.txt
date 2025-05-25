@@ -1,0 +1,4 @@
+num,id,name,gtfs_url
+1,mnr,Metro North Railroad,https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip
+2,"lirr","Long Island Railroad","https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
+3,njt,New Jersey Transit Rail,https://www.njtransit.com/rail_data.zip
